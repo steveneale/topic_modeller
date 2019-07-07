@@ -1,0 +1,17 @@
+# .gitignore file for 'topic_modeller'
+
+# Python
+__pycache__
+
+# IDEs
+.idea/
+
+# virtualenv
+bin/
+include/
+lib/
+pyvenv.cfg
+.Python
+
+# Topic modeller
+output/
