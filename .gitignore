@@ -1,5 +1,8 @@
 # .gitignore file for 'topic_modeller'
 
+# Mac OS
+.DS_Store
+
 # Python
 __pycache__
 
