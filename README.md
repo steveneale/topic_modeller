@@ -1,5 +1,7 @@
 # topic_modeller
 
+![version](https://img.shields.io/badge/version-0.1-important.svg) [![Travis CI](https://travis-ci.org/steveneale/topic_modeller.svg?branch=master)](https://travis-ci.org/steveneale/topic_modeller)
+
 *topic_modeller* is a program for training LDA (Latent Dirichlet Allocation)-based topic models, implemented using
 [Python](https://www.python.org/) and [scikit-learn](https://scikit-learn.org/stable/).
 
