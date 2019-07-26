@@ -1,0 +1,7 @@
+language: python
+python:
+  - "3.5"
+  - "3.6"
+# Run the tests
+script:
+  - python3 -m unittest discover -v -s tests/ 
